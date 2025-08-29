@@ -1,4 +1,5 @@
 # Lệnh để cài firefox 
 ```
 ```
+...
 wget -q https://github.com/KingNekoVN/Firefox-setting-with-APT/raw/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
