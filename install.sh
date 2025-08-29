@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "Code By MinhNeko"
-# Bật root
-sudo -s
+echo "Lưu ý phải bật root bằng lệnh sudo -s"
 # Update hệ thống
 sudo apt update
 # Tạo APT Repo Key
